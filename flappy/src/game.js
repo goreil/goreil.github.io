@@ -1,4 +1,8 @@
+import Boot from './boot.js'
+import TitleScreenScene from './titleScreenScene.js'
 import MainScene from './mainScene.js'
+import GameOverScene from './gameOverScene.js'
+import PreloadScene from './preloadScene.js'
 
 const roundHalf = num => Math.round(num * 2) / 2
 
@@ -44,7 +48,13 @@ const config = {
       gravity: { y: 2000 }
     }
   },
-  scene: [MainScene]
+  scene: [
+    Boot,
+    TitleScreenScene,
+    PreloadScene,
+    MainScene,
+    GameOverScene
+  ]
 }
 
 window.addEventListener('load', () => {

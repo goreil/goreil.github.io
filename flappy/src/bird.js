@@ -16,17 +16,21 @@ export default class Bird extends Phaser.Physics.Arcade.Sprite {
         // scale down hitbox
         this.body.setSize(this.body.width, this.body.height * 0.8);
 
+        this.sound_effect = this.scene.sound.add('jump');
+
 
     }
 
     preUpdate() {
         // If mouse is clicked or pointer is pressed down
-        // console.log(velocityY);
 
         var velocityY = this.body.velocity.y;
         this.scene.input.on('pointerdown', function(pointer){
-            this.setVelocityY(velocityY - 600);
             // Make bird jump
+            this.setVelocityY(velocityY - 600);
+            this.sound_effect.play();
         }, this);
+
+
     }
 }

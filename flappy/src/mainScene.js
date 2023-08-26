@@ -42,7 +42,7 @@ export default class MainScene extends Phaser.Scene {
 
         this.bird = new Bird(this, width / 4, height / 2);
         this.score = 0;
-        this.scoreText = this.add.text(0, 0, "score:0", { fontFamily: '"flappy"', fontSize: 48 * assetsDPR, color: '#ffffff' }).setOrigin(0, 0);
+        this.scoreText = this.add.text(0, 0, "Score:0", { fontFamily: '"flappy"', fontSize: 48 * assetsDPR, color: '#ffffff' }).setOrigin(0, 0);
         // console.log("Another bird");
         this.physics.add.collider(this.bird, this.ground_line, this.displayGameOver, null, this);
 
@@ -90,7 +90,7 @@ export default class MainScene extends Phaser.Scene {
         scoreLine.destroy();
         this.score += 1;
         // Add score text
-        this.scoreText.setText("score:" + this.score);
+        this.scoreText.setText("Score:" + this.score);
 
         // Play sound
         this.sound.play('score');

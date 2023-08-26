@@ -1,7 +1,3 @@
-import { assetsDPR } from './game.js'
-import Bird  from './bird.js';
-import Pipe from './pipe.js';
-
 export default class Boot extends Phaser.Scene {
 
     constructor(config) {
@@ -43,7 +39,6 @@ export default class Boot extends Phaser.Scene {
             },
             active: () => {
                 this.scene.start('TitleScreenScene');
-                console.log("fonts loaded");
             }
         });
         

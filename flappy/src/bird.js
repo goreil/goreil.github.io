@@ -27,10 +27,12 @@ export default class Bird extends Phaser.Physics.Arcade.Sprite {
         var velocityY = this.body.velocity.y;
         this.scene.input.on('pointerdown', function(pointer){
             // Make bird jump
-            this.setVelocityY(velocityY - 600);
+            this.setVelocityY(velocityY - 1000);
             this.sound_effect.play();
         }, this);
 
+        // Rotate bird based on velocity
+        this.setAngle(velocityY/40);
 
     }
 }

@@ -8,37 +8,42 @@
     <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
 </head>
 <body>
-    <!--Navigation bar-->
-    <div id="nav-placeholder">
-    </div>
+        <!--Navigation bar-->
+        <div id="nav-placeholder">
+        </div>
 
-    <script>
-        $(function(){
-            $("#nav-placeholder").load("nav.html");
-        });
-    </script>
+        <script>
+            $(function(){
+                $("#nav-placeholder").load("nav.html");
+            });
+        </script>
+    <main>
+<body>
+    <h1>CS50 Games ported to Phaser3</h1>
+    
     <main>
         <section id="portfolio">
             <div class="portfolio-item">
-                <a href="https://example.com/project1" target="_blank">
-                    <img src="https://via.placeholder.com/150" alt="Project 1">
+                <a href="pong">
+                    <img src="images/pong.png" alt="Pong">
                     <div class="description">
-                        <h2>Project 1</h2>
-                        <p>Short description of project 1.</p>
+                        <h2>Pong</h2>
+                        <p>Play Pong against an AI</p>
                     </div>
                 </a>
             </div>
             <div class="portfolio-item">
-                <a href="https://example.com/project2" target="_blank">
-                    <img src="https://via.placeholder.com/150" alt="Project 2">
+                <a href="flappy">
+                    <img src="images/flappy.png" alt="Flappy Bird">
                     <div class="description">
-                        <h2>Project 2</h2>
-                        <p>Short description of project 2.</p>
+                        <h2>Flappy Bird</h2>
+                        <p>Fly as far as you can!</p>
                     </div>
                 </a>
             </div>
             <!-- Add more portfolio items as needed -->
         </section>
     </main>
+    
 </body>
 </html>

@@ -58,12 +58,12 @@ export default class MainScene extends Phaser.Scene {
         let { width, height } = this.cameras.main
         
         // Get random y position for pipe
-        let y = Phaser.Math.Between(height / 2, height * 3/4);
+        let y = Phaser.Math.Between(height * 1/4, height * 1/2);
 
         // Add pipe to scene
         let pipe = new Pipe(this, width * 5/4, y);
         // Add inverted pipe
-        let invertedPipe = new Pipe(this, width * 5/4, 3/4 * y - (pipe.height  * assetsDPR), true);
+        let invertedPipe = new Pipe(this, width * 5/4, y - 3/4 * (pipe.height  * assetsDPR), true);
         // Add score collision line
         let scoreLine = new CollisionLine(this, pipe.x + pipe.width, 0, 0, height * assetsDPR).setOrigin(0, 0);
         scoreLine.body.setVelocityX(-400);

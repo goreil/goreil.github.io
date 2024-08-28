@@ -1,4 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://goreil.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'goreil blog'
+# theme = 'hugo-simple'
 theme = 'ananke'
+sectionPagesMenu = 'games'

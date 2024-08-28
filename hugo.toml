@@ -1,6 +1,27 @@
+title = "goreil blog"
 baseURL = 'https://goreil.github.io'
 languageCode = 'en-us'
-title = 'goreil blog'
-# theme = 'hugo-simple'
 theme = 'ananke'
-sectionPagesMenu = 'games'
+SectionPagesMenu = "main"
+
+DefaultContentLanguage = "en"
+Paginate = 10
+googleAnalytics = ""
+
+
+[languages]
+  [languages.en]
+    title = ""
+    weight = 1
+    contentDir = "content"
+    # languageDirection = 'rtl' for Right-To-Left languages
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = ""
+  background_color_class = "bg-orange"
+  recent_posts_number = 3
+

@@ -1,3 +1,11 @@
++++
+title = 'UCTF 2023 - Padding Oracle'
+date = 2024-08-28T16:14:08+02:00
+draft = false
+
+summary = 'Padding Oracle Attack on AES-CBC'
+tags = [ 'writeups' , 'crypto' ]
++++
 # Padding Oracle Writup
 
 > Greetings, brave challengers! As you embark on the Padding Oracle Adventure, remember that the key to triumph lies in understanding the AES-128-CBC encryption's Achilles' heel—the vulnerable Cipher Block Chaining mode. May the flags be with you!

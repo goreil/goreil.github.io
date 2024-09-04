@@ -4,17 +4,17 @@ date = 2024-08-28T16:14:08+02:00
 draft = false
 
 featured_image =  '/images/programmer.jpg'
-menu = "main"
 +++
 Writeups are meant to be shared! Pay it forward :D
 This blog contains various writeups from Wargames and CTF's that I played.
 
+# Blockchain
+[![Blockchain](/images/ethernaut.png)](blockchain)
+
+# Crypto
+[![Crypto](/images/Public_key_encryption.svg)](crypto)
+
 <!-- # Crypto
-| CTF | Challenge | Summary | Writeup |
-|--|--|--|--|
-| KITCTFCTF 2022 | primeguesser | Solving LWE Challenge by looking at the `decrypt` function | [Writeup](crypto/ctf/2022-12-12-KITCTFCTF2022-primeguesser.md)
-| CSCG 2023 | casino | Using Legendre Symbol to beat the odds at Diffie-Hellman casino | [Writeup](crypto/ctf/2023-04-23-CSCG2023-casino.md)
-| UCTF 2023 | Padding Oracle | Padding Oracle Attack on AES-CBC | [Writeup](crypto/ctf/2023-09-02-UCTF-Padding_Oracle.md)
 
 # Misc
 | CTF | Challenge | Summary | Writeup |

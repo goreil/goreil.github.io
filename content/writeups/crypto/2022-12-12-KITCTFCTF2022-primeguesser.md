@@ -1,3 +1,11 @@
++++
+title = 'KITCTFCTF 2022 - Prime Guesser 1 and 2'
+date = 2024-08-28T16:14:08+02:00
+draft = false
+
+summary = 'Solving LWE Challenge by looking at the `decrypt` function'
+tags = [ 'writeups' , 'crypto' ]
++++
 # KITCTFCTF 2022 - Prime Guesser 1 and 2
 12.12.2022 by goreil
 
@@ -15,7 +23,7 @@ Between each encrypted number you can query an oracle any times you want that re
 
 You need to send back the correct factors 100 times to get the flag.
 
-![Alt text](q6o31e29.bmp)
+![Image showing the Client-Server protocol](q6o31e29.png)
 
 
 ### Example Encryption output

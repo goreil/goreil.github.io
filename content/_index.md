@@ -7,4 +7,7 @@ featured_image =  '/images/flappy.png'
 menu = "main"
 +++
 
+
 Welcome to my blog! Hope you learn something interesting!
+
+It's not finished yet, you can see the TODO's [here](todo)

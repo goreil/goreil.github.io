@@ -1,3 +1,11 @@
++++
+title = 'CSCG2023 - Hurdles Part 1'
+date = 2024-08-28T16:14:08+02:00
+draft = false
+
+summary = 'Combining *IDA* and *angr* to solve a crackme'
+tags = [ 'writeups' , 'misc' ]
++++
 # Hurdles Part 1
 > CSCG is in may ways like hurdling. Our challenge attempts to hide the obstacles in a way you might not be used to. Can you solve the first two stages?
 > 

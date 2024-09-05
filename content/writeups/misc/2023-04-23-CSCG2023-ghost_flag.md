@@ -1,3 +1,11 @@
++++
+title = 'CSCG2023 - Ghost Flag'
+date = 2024-08-28T16:14:08+02:00
+draft = false
+
+summary = 'Dumping data from live process'
+tags = [ 'writeups' , 'misc' ]
++++
 # Ghost Flag
 > **Category**: Forensics
 > 

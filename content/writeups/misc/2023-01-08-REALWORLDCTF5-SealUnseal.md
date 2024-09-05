@@ -1,4 +1,13 @@
++++
+title = 'REALWORLDCTF5 - SealUnseal'
+date = 2024-08-28T16:14:08+02:00
+draft = false
+
+summary = 'Demonstrating Intel SGX unsealing'
+tags = [ 'writeups' , 'misc' ]
++++
 # SealUnseal
+
 > Full writeup can be found on https://saarsec.rocks/2023/01/08/REALWORLDCTF5-SealUnseal.html 
 
 ## Background

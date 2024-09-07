@@ -1,12 +1,12 @@
 +++
 title = 'Ethernaut Level 1 - Fallback'
-date = 2024-08-28T16:14:08+02:00
 draft = false
 
 featured_image =  '/images/ethernaut.png'
 background_image= '/images/ethernaut.png'
 summary = 'First level to introduce interacting with the Levels'
-tags = [ 'writeups' , 'blockchain' ]
+date = 2024-08-04
+tags = [ 'writeups' , 'blockchain', 'ethernaut']
 +++
 1. Use the contribute function to send eth
 2. Use standard function to send eth

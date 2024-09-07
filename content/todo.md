@@ -14,10 +14,8 @@ This is a list of all TODO's for this blog, so you can see the progress!
 - [x] Choose a Hugo them I like (Sat Sep  7 05:16:21 PM CEST 2024)
 - [ ] Set Writeups to correct dates
 - [ ] Proper navigation
-    - [ ] Figure out ideas
-        - [ ] Pure Tag-based navigation?
-        - [ ] Change layout to make nice overview page
-- [ ] New Writeup - possibly on pwn.college tooling?
+    - [x] Just blog articles no `_index.md` and `overview.md` (Sat Sep  7 05:46:31 PM CEST 2024)
+- [ ] Write new content
 
 ## Useful
 I look up my old stuff so much!

@@ -1,12 +1,12 @@
 +++
 title = 'Ethernaut Level 3 - Coin'
-date = 2024-08-28T16:14:08+02:00
+date = 2024-08-04
 draft = false
 
 featured_image =  '/images/ethernaut.png'
 background_image= '/images/ethernaut.png'
 summary = 'Beat a badly implemented PRNG'
-tags = [ 'writeups' , 'blockchain' ]
+tags = [ 'writeups' , 'blockchain', 'ethernaut' ]
 +++
 
 ```solidity

@@ -1,3 +1,10 @@
++++
+title = 'CSCG 2023 - Release the Unicorn'
+date = 2024-08-28T16:14:08+02:00
+
+summary = 'Shellcode execution as a service. Can you outsmart the unicorn?'
+tags = [ 'writeups' , 'pwn', 'cscg2023']
++++
 # Release the unicorn
 > **Category:** Misc
 >

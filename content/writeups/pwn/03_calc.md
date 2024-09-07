@@ -1,4 +1,7 @@
-# calc [150 pts]
++++
+title = 'pwnable.tw - calc'
+tags = ['pwnable.tw', 'pwn', 'writeups']
++++
 > Have you ever use Microsoft calculator?
 ```c
 > checksec calc

@@ -1,4 +1,6 @@
-# Smallbin Attacks
++++
+title = 'Smallbin Attacks'
++++
 
 ## House of Botcake
 > Double Free for overlapping chunk

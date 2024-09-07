@@ -22,6 +22,9 @@ I look up my old stuff so much!
 But currently it's just lying either in my pwn.college archive or I'm just looking it up on cryptohack.
 Let's think of a better way...
 
+## Broken
+- [ ] Some writeups on last page have no title
+
 ## If I have time
 - [x] Formatting
     - [x] Crypto math formatting (Sat Sep  7 05:16:21 PM CEST 2024)

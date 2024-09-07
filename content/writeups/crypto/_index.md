@@ -1,6 +1,5 @@
 +++
 title = 'Crypto'
-date = 2024-08-28T16:14:08+02:00
 draft = false
 
 featured_image =  '/images/Public_key_encryption.svg'

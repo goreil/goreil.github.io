@@ -1,27 +1,54 @@
-title = "goreil blog"
-baseURL = 'https://goreil.github.io'
+title = "goreil's blog"
+baseURL = 'localhost:1313'
 languageCode = 'en-us'
-theme = 'ananke'
-SectionPagesMenu = "main"
+theme = "paper"
+copyright = "© 2024, goreil"
 
 DefaultContentLanguage = "en"
+enableInlineShortcodes = true
 Paginate = 10
 googleAnalytics = ""
 
 
-[languages]
-  [languages.en]
-    title = ""
-    weight = 1
-    contentDir = "content"
-    # languageDirection = 'rtl' for Right-To-Left languages
 
 [params]
-  text_color = ""
-  author = ""
-  favicon = ""
-  site_logo = ""
-  description = ""
-  background_color_class = "bg-orange"
-  recent_posts_number = 3
+  color = 'wheat'                           # linen, wheat, gray, light
 
+  # header social icons
+  # twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
+  github = 'goreil'                 # github.com/YOUR_GITHUB_ID
+  # instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
+  linkedin = 'youheng-l%C3%BC-a799ba227/'             # linkedin.com/in/YOUR_LINKEDIN_ID
+  # mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
+  # threads = '@YOUR_THREADS_ID'              # threads.net/@YOUR_THREADS_ID
+  rss = true                                # show rss icon
+
+  avatar = 'https://avatars.githubusercontent.com/u/90871590?v=4'
+  name = 'goreil'
+  bio = 'Welcome to my blog! Hope you learn something interesting!'
+
+
+  # misc
+  # disableHLJS = true                        # disable highlight.js
+  # disablePostNavigation = true              # disable post navigation
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+  math = true                               # enable KaTeX math typesetting globally
+  localKatex = false                        # use local KaTeX js/css instead of CDN
+  graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
+  favicon = "favicon.ico"                   # customize the default favicon
+  appleTouchIcon = "apple-touch-icon.png"   # customize the default Apple touch icon
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "games"
+    name = "Games"
+    url = "/games_blog/"
+    weight = 10
+  [[menu.main]]
+    identifier = "writeups"
+    name = "Writeups"
+    url = "/writeups/"
+    weight = 10

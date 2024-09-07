@@ -1,6 +1,5 @@
 +++
 title = 'Games'
-date = 2024-08-28T00:17:36+02:00
 draft = false
 featured_image = '/images/flappy.png'
 background_image = '/images/flappy.png'

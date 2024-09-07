@@ -1,6 +1,6 @@
 +++
 title = 'KITCTFCTF 2022 - Prime Guesser 1 and 2'
-date = 2024-08-28T16:14:08+02:00
+date = 2023-09-11
 draft = false
 
 summary = 'Solving LWE Challenge by looking at the `decrypt` function'

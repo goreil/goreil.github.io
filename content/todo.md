@@ -11,6 +11,7 @@ This is a list of all TODO's for this blog, so you can see the progress!
     - [x] misc (Fri Sep  6 00:21:02 CEST 2024)
     - [ ] pwn
     - [x] rev (Fri Sep  6 00:27:27 CEST 2024)
+- [x] Choose a Hugo them I like (Sat Sep  7 05:16:21 PM CEST 2024)
 - [ ] Set Writeups to correct dates
 - [ ] New Writeup - possibly on pwn.college tooling?
 
@@ -19,8 +20,8 @@ I look up my old stuff so much!
 But currently it's just lying either in my pwn.college archive or I'm just looking it up on cryptohack.
 Let's think of a better way...
 ## If I have time
-- [ ] Formatting
-    - [ ] Crypto math formatting
+- [x] Formatting
+    - [x] Crypto math formatting (Sat Sep  7 05:16:21 PM CEST 2024)
     - [ ] tags Page
 
 - [ ] Tooling

@@ -1,5 +1,6 @@
 +++
 title = "Fastbin_attacks"
+date = '2024-05-01'
 +++
 Fastbins are single linked list. The head is the last freed chunk:
 

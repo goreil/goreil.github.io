@@ -1,6 +1,6 @@
 +++
 title = 'Ethernaut Level 13 - Gatekeeperone'
-date = 2024-08-04
+date = 2024-04-14
 draft = false
 
 featured_image =  '/images/ethernaut.png'

@@ -5,7 +5,7 @@ draft = false
 featured_image =  '/images/ethernaut.png'
 background_image= '/images/ethernaut.png'
 summary = 'First level to introduce interacting with the Levels'
-date = 2024-08-04
+date = 2024-04-08 01:00:00
 tags = [ 'writeups' , 'blockchain', 'ethernaut']
 +++
 1. Use the contribute function to send eth

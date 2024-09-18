@@ -1,6 +1,6 @@
 +++
 title = 'Ethernaut Level 3 - Coin'
-date = 2024-08-04
+date = 2024-04-08 02:00:00
 draft = false
 
 featured_image =  '/images/ethernaut.png'

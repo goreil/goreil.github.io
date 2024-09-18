@@ -1,6 +1,6 @@
 +++
 title = 'UCTF 2023 - Padding Oracle'
-date = 2024-08-28T16:14:08+02:00
+date = 2023-09-02
 draft = false
 
 summary = 'Padding Oracle Attack on AES-CBC'

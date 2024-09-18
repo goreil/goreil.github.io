@@ -1,6 +1,6 @@
 +++
 title = 'REALWORLDCTF5 - SealUnseal'
-date = 2024-08-28T16:14:08+02:00
+date = 2023-01-08
 draft = false
 
 summary = 'Demonstrating Intel SGX unsealing'

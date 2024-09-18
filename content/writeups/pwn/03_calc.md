@@ -1,5 +1,6 @@
 +++
 title = 'pwnable.tw - calc'
+date = 2023-09-10 00:08:26
 tags = ['pwnable.tw', 'pwn', 'writeups']
 +++
 > Have you ever use Microsoft calculator?

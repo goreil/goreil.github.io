@@ -12,7 +12,7 @@ This is a list of all TODO's for this blog, so you can see the progress!
     - [x] pwn (Sat Sep  7 05:37:42 PM CEST 2024)
     - [x] rev (Fri Sep  6 00:27:27 CEST 2024)
 - [x] Choose a Hugo them I like (Sat Sep  7 05:16:21 PM CEST 2024)
-- [ ] Set Writeups to correct dates
+- [x] Set Writeups to correct dates (Wed Sep 18 11:24:59 PM CEST 2024)
 - [ ] Featured Writeups
 - [ ] Proper navigation
     - [x] Just blog articles no `_index.md` and `overview.md` (Sat Sep  7 05:46:31 PM CEST 2024)

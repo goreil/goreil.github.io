@@ -17,6 +17,7 @@ This is a list of all TODO's for this blog, so you can see the progress!
 - [ ] Proper navigation
     - [x] Just blog articles no `_index.md` and `overview.md` (Sat Sep  7 05:46:31 PM CEST 2024)
 - [ ] Write new content
+    - [x] pentesting content
 
 ## Useful
 I look up my old stuff so much!
@@ -24,7 +25,7 @@ But currently it's just lying either in my pwn.college archive or I'm just looki
 Let's think of a better way...
 
 ## Broken
-- [ ] Some writeups on last page have no title
+- [x] Some writeups on last page have no title (Wed Oct  2 01:45:51 PM CEST 2024)
 
 ## If I have time
 - [x] Formatting

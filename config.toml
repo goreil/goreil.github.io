@@ -6,7 +6,7 @@ copyright = "© 2024, goreil"
 
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
-Paginate = 10
+pagination.pagerSize = 10
 googleAnalytics = ""
 
 

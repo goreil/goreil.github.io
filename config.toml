@@ -52,3 +52,8 @@ googleAnalytics = ""
     name = "Writeups"
     url = "/writeups/"
     weight = 10
+  [[menu.main]]
+    identifier = "microblog"
+    name = "Microblog"
+    url = "/writeups/microblog/"
+    weight = 10

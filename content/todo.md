@@ -28,6 +28,7 @@ Let's think of a better way...
 - [x] Some writeups on last page have no title (Wed Oct  2 01:45:51 PM CEST 2024)
 
 ## If I have time
+- [ ] Nicer theme
 - [x] Formatting
     - [x] Crypto math formatting (Sat Sep  7 05:16:21 PM CEST 2024)
     - [ ] tags Page

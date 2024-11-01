@@ -29,6 +29,7 @@ Let's think of a better way...
 
 ## If I have time
 - [ ] Nicer theme
+- [ ] Structure `pentesting` folder
 - [x] Formatting
     - [x] Crypto math formatting (Sat Sep  7 05:16:21 PM CEST 2024)
     - [ ] tags Page
